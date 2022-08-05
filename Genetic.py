@@ -9,7 +9,7 @@ class indv(object):
 		self.gen = gen
 		self.fitscore = self.fit_score()
 	def fit_score(self):
-		fit = [0,0,0,0g]
+		fit = [0,0,0,0]
 		fitscore = 0
 		for i,j in zip(self.gen,fit):
 			if i != j:
