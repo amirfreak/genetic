@@ -9,3 +9,7 @@ h1 {
 body {
     font-style: inherit;
 }
+
+,gap {
+    font-family: 'Courier New', Courier, monospace;
+}
