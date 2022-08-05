@@ -50,6 +50,6 @@ def main():
 			#print(offspring.gen)
 		population = new_pops
 		print(new_pops[0].gen)
-		print(f"Target = [0,0,0,0], Current = {population[0].gen} ")
+		print(f"Target = [0,0,0,0], CurrentGen = {population[0].gen} ")
 if __name__ == "__main__":
 	main()
