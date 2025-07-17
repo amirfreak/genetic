@@ -1,7 +1,7 @@
-# Genetic Algorithm 
 
 
-# A simple program under Genetic.py to understand how genetic algorithm works 
+
+# A simple program under Genetic.py to understand how Genetic Algorithm  works 
 
 
 
