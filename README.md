@@ -1,7 +1,7 @@
 
 
 
-## A simple program under Genetic.py to understand how Genetic Algorithm  works 
+## how Genetic Algorithm  works?
 
 
 We have four stages of **genetic algorithm** in every program that i've been list them below:
